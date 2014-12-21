@@ -1,3 +1,4 @@
 Please enter some of the basic commands here so we can reference them easily in the future:
 
 document :: crib
+$ :: $cashMoney$
