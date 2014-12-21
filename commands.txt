@@ -2,3 +2,5 @@ Please enter some of the basic commands here so we can reference them easily in 
 
 document :: crib
 $ :: $cashMoney$
+function ::
+var ::
