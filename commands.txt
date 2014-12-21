@@ -4,3 +4,4 @@ document :: crib
 $ :: $cashMoney$
 function ::
 var ::
+.css :: .swag
