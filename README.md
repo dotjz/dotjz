@@ -1,9 +1,12 @@
-To Do::
+To Do::      (mark with an X and your name when completed, then move to bottom of list)
 
-Logo and other icon/images
-Final description of dotjz
+- -Create final description of dotJZ syntax - -
+- -Create dotJZ library - -
+-X-Create website -Isaac-
+-X-Make website professional and functional -Mateo-
+-X-Create logo/icon -Isaac-
 
-Roles: TBD
+Roles:
 Ankur: TBD
 Isaac: TBD
 James: TBD
