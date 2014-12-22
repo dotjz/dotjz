@@ -4,7 +4,7 @@ document :: crib
 window :: bling
 getElementByID ::
 $ :: $cashMoney$
-function :: telly
+function :: pad
 to call function :: yo
 var :: playa
 .css :: .swag
