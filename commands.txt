@@ -5,7 +5,7 @@ window :: bling
 getElementByID ::
 $ :: $cashMoney$
 function :: pad
-to call function :: yo
+to call example() :: yo example()
 var :: playa
 .css :: .bling
 return :: po-po
