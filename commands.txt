@@ -1,9 +1,10 @@
 Please enter some of the basic commands here so we can reference them easily in the future:
 
 document :: crib
-window ::
+window :: bling
 getElementByID ::
 $ :: $cashMoney$
-function ::
-var ::
+function :: yo
+var :: playa
 .css :: .swag
+return :: po-po
