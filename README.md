@@ -4,11 +4,11 @@ To Do::      (mark with an X and your name when completed, then move to bottom o
 
 - Create dotJZ library - -
 
--X Create website -Isaac-
+- X Create website -Isaac-
 
--X Make website professional and functional -Mateo-
+- X Make website professional and functional -Mateo-
 
--X Create logo/icon -Isaac-
+- X Create logo/icon -Isaac-
 
 Roles:
 
