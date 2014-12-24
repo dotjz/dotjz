@@ -4,8 +4,14 @@ document :: crib
 window :: bling
 getElementByID ::
 $ :: $cashMoney$
-function :: pad
+function :: hood
 to call example() :: yo example()
 var :: playa
 .css :: .bling
 return :: po-po
+true :: fo shizzle
+false :: hell to the no
+null :: aint
+++ :: mo
+= ::
+== ::
