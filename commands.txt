@@ -10,7 +10,7 @@ var :: playa
 .css :: .bling
 return :: po-po
 true :: fo shizzle
-false :: hell to the no
+false :: nuttin
 null :: aint
 ++ :: mo
 = :: 
