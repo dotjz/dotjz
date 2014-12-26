@@ -13,5 +13,5 @@ true :: fo shizzle
 false :: hell to the no
 null :: aint
 ++ :: mo
-= :: is like
-== ::
+= :: is
+== :: is da same as
