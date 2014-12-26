@@ -1,7 +1,7 @@
 Please enter some of the basic commands here so we can reference them easily in the future:
 
 document :: crib
-window :: bling     //someone change this, we cant have bling and .bling
+window :: holla
 getElementByID ::
 $ :: $cashMoney$
 function :: hood
