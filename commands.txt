@@ -15,3 +15,5 @@ null :: aint
 ++ :: mo
 = :: 
 == :: is
+z :: s
+s :: z
